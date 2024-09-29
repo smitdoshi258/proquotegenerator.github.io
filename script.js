@@ -1,6 +1,6 @@
 const quotes = [{
         name: "&#126 Smit Doshi",
-        quote: "&#x275D One who will unite will make the world bright.&#x275E"
+        quote: "&#x275D One who unites will make the world bright.&#x275E"
     },
     {
     "name": "&#126 Steve Jobs",
