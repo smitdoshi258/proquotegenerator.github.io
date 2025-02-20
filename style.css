@@ -32,7 +32,7 @@
 #quoteBtn {
     border: none;
     color: #fff;
-    background-color: #f9535b;
+    background-color: #5372F0;
     font-size: 16px;
     padding: 13px 22px;
     border-radius: 30px;
@@ -48,9 +48,9 @@
 
 blockquote {
     background: #f9f9f9;
-    border-left: 10px solid#f94449;
-    margin: 0.5rem;
-    padding: .1rem;
+    border-left: 10px solid#5372F0;
+    margin: 1.5rem;
+    padding: .5rem;
 }
 
 #quoteAuthor {
