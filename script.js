@@ -283,10 +283,6 @@ const quotes = [{
     "quote": "&#x275D The harder you work for something, the greater you'll feel when you achieve it.&#x275E"
 },
 {
-    "name": "&#126 Steve Jobs",
-    "quote": "&#x275D The only way to do great work is to love what you do.&#x275E"
-},
-{
     "name": "&#126 Chris Grosser",
     "quote": "&#x275D Opportunities don't happen. You create them.&#x275E"
 },
@@ -397,6 +393,218 @@ const quotes = [{
 {
     "name": "&#126 Albert Einstein",
     "quote": "&#x275D We cannot solve our problems with the same thinking we used when we created them.&#x275E"
+},
+{
+    "name": "&#126 Steve Jobs",
+    "quote": "&#x275D The only way to do great work is to love what you do.&#x275E"
+},
+{
+    "name": "&#126 Leo Tolstoy",
+    "quote": "&#x275D Everyone thinks of changing the world but no one thinks of changing himself.&#x275E"
+},
+{
+    "name": "&#126 Rumi",
+    "quote": "&#x275D Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.&#x275E"
+},
+{
+    "name": "&#126 Mark Twain",
+    "quote": "&#x275D The two most important days in your life are the day you are born and the day you find out why.&#x275E"
+},
+{
+    "name": "&#126 Charles Duhigg",
+    "quote": "&#x275D The difference between who you are and who you want to be is what you do.&#x275E"
+},
+{
+    "name": "&#126 F.M. Alexander",
+    "quote": "&#x275D People do not decide their futures, they decide their habits and their habits decide their futures.&#x275E"
+},
+{
+    "name": "&#126 Samuel Smiles",
+    "quote": "&#x275D Sow a thought, and you reap an act; Sow an act, and you reap a habit; Sow a habit, and you reap a character; Sow a character, and you reap a destiny.&#x275E"
+},
+{
+    "name": "&#126 Robin Sharma",
+    "quote": "&#x275D New habits are much like a new pair of shoes: for a while they feel awkward, but eventually they fit perfectly.&#x275E"
+},
+{
+    "name": "&#126 Sean Covey",
+    "quote": "&#x275D You are stronger than your habits, so you can change them.&#x275E"
+},
+{
+    "name": "&#126 George Washington Carver",
+    "quote": "&#x275D 99% of failures come from people who have the habit of making excuses.&#x275E"
+},
+{
+    "name": "&#126 Aristotle",
+    "quote": "&#x275D Good habits formed at youth make all the difference.&#x275E"
+},
+{
+    "name": "&#126 Sachin Tendulkar",
+    "quote": "&#x275D To handle stressful situations remain calm and stable, follow your instincts and think clearly.&#x275E"
+},
+{
+    "name": "&#126 Sachin Tendulkar",
+    "quote": "&#x275D Don’t stop chasing your dreams, because dreams do come true.&#x275E"
+},
+{
+    "name": "&#126 Ratan Tata",
+    "quote": "&#x275D If you want to walk fast, walk alone. But if you want to walk far, walk together.&#x275E"
+},
+{
+    "name": "&#126 Ratan Tata",
+    "quote": "&#x275D Pick the stones thrown at you and use them to build a monument.&#x275E"
+},
+{
+    "name": "&#126 Ratan Tata",
+    "quote": "&#x275D None can destroy iron, but its own rust can. Likewise, none can destroy a person but their own mindset can.&#x275E"
+},
+{
+    "name": "&#126 Stephen Covey",
+    "quote": "&#x275D Most people do not listen with the intent to understand; they listen with the intent to reply.&#x275E"
+},
+{
+    "name": "&#126 Epictetus",
+    "quote": "&#x275D We have two ears and one mouth so that we can listen twice as much as we speak.&#x275E"
+},
+{
+    "name": "&#126 Charles R. Swindoll",
+    "quote": "&#x275D Life is 10% what happens to us and 90% how we react to it.&#x275E"
+},
+{
+    "name": "&#126 Ratan Tata",
+    "quote": "&#x275D Ups and downs in life are very important to keep us going because a straight line even in an E.C.G means we are not alive.&#x275E"
+},
+{
+    "name": "&#126 Michael Jordan",
+    "quote": "&#x275D I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.&#x275E"
+},
+{
+    "name": "&#126 Unknown",
+    "quote": "&#x275D No one is born successful. Success must be earned, success must be achieved, success must be fought for.&#x275E"
+},
+{
+    "name": "&#126 Reinhold Niebuhr",
+    "quote": "&#x275D God grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.&#x275E"
+},
+{
+    "name": "&#126 Albert Einstein",
+    "quote": "&#x275D We owe a lot to the Indians, who taught us how to count, without which no worthwhile scientific discovery could have been made.&#x275E"
+},
+{
+    "name": "&#126 A.P.J. Abdul Kalam",
+    "quote": "&#x275D Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.&#x275E"
+},
+{
+    "name": "&#126 A.P.J. Abdul Kalam",
+    "quote": "&#x275D A dream is not that which you see while sleeping, it is something that does not let you sleep.&#x275E"
+},
+{
+    "name": "&#126 Theodore Roosevelt",
+    "quote": "&#x275D Keep your eyes on the stars, and your feet on the ground.&#x275E"
+},
+{
+    "name": "&#126 A.P.J. Abdul Kalam",
+    "quote": "&#x275D I am not handsome but I can give my hand to someone who needs help. Beauty is in the heart, not in the face.&#x275E"
+},
+{
+    "name": "&#126 Warren Buffett",
+    "quote": "&#x275D It's better to hang out with people better than you. Pick out associates whose behavior is better than yours and you’ll drift in that direction.&#x275E"
+},
+{
+    "name": "&#126 Cory Booker",
+    "quote": "&#x275D Leadership is not a position or a title, it is action and example.&#x275E"
+},
+{
+    "name": "&#126 Robin Sharma",
+    "quote": "&#x275D Tender yet tough, compassionate yet courageous, part saint yet part warrior, friendly yet firm.&#x275E"
+},
+{
+    "name": "&#126 Winston Churchill",
+    "quote": "&#x275D Let our advance worrying become advance thinking and planning.&#x275E"
+},
+{
+    "name": "&#126 Aristotle",
+    "quote": "&#x275D First, have a definite, clear practical ideal — a goal, an objective.&#x275E"
+},
+{
+    "name": "&#126 Sugar Ray Robinson",
+    "quote": "&#x275D To be a champion you have to believe in yourself when no one else will.&#x275E"
+},
+{
+    "name": "&#126 Sardar Vallabhbhai Patel",
+    "quote": "&#x275D Even if we lose the wealth of thousands, and our life is sacrificed, we should keep smiling and be brave in misfortune.&#x275E"
+},
+{
+    "name": "&#126 Mahatma Gandhi",
+    "quote": "&#x275D A man with a grain of faith in God never loses hope, because he believes in the ultimate triumph of truth.&#x275E"
+},
+{
+    "name": "&#126 Max Planck",
+    "quote": "&#x275D For believers, God is the beginning; for physicists, God is the end of all considerations... the crown of the edifice of every generalized worldview.&#x275E"
+},
+{
+    "name": "&#126 Benjamin Carson",
+    "quote": "&#x275D Through hard work, perseverance, and a faith in God, you can live your dreams.&#x275E"
+},
+{
+    "name": "&#126 Mahant Swami Maharaj",
+    "quote": "&#x275D Unflinching faith in God.&#x275E"
+},
+{
+    "name": "&#126 Pramukh Swami Maharaj",
+    "quote": "&#x275D Make the most of the present, don’t worry about the future. If we are set today then we will definitely be set tomorrow. If one has faith in God, then our life is fulfilled.&#x275E"
+},
+{
+    "name": "&#126 Tiny Buddha",
+    "quote": "&#x275D Having someone to love is family.&#x275E"
+},
+{
+    "name": "&#126 Winston Churchill",
+    "quote": "&#x275D We make a living by what we get, but we make a life by what we give.&#x275E"
+},
+{
+    "name": "&#126 Unknown",
+    "quote": "&#x275D Progress or regress of life is determined by your good and bad habits.&#x275E"
+},
+{
+    "name": "&#126 Unknown",
+    "quote": "&#x275D Always accept challenges you face in life with a positive attitude.&#x275E"
+},
+{
+    "name": "&#126 Unknown",
+    "quote": "&#x275D Faith is the power we can harness to achieve great success even in times of difficulties.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D People get so caught up in the fact that they have limits that they rarely exert the effort required to get close to them.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D The work that hurts you less than it hurts others is the work you were made to do.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D Some people spend their entire lives waiting for the time to be right to make an improvement.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D Be the designer of your world and not merely the consumer of it.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D Habits are the compound interest of self-improvement.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D Goals are good for setting a direction, but systems are best for making progress.&#x275E"
+},
+{
+    "name": "&#126 James Clear",
+    "quote": "&#x275D You do not rise to the level of your goals. You fall to the level of your systems.&#x275E"
 }
 
 ]
